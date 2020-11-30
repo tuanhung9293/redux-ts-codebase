@@ -1,0 +1,1 @@
+export const SITE_LIST__GET = 'SITE_LIST__GET';
